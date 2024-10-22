@@ -1,0 +1,200 @@
+[
+	{
+		"id": 1,
+		"name": "Tropical Paradise Resort",
+		"image": "https://images.unsplash.com/photo-1484821582734-6c6c9f99a672?q=80&w=1033&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A luxurious beach resort surrounded by crystal-clear waters.",
+		"rating": 4.9,
+		"price": 2500,
+		"duration": "7 days",
+		"location": "Pacific Ocean",
+		"category": "Beaches"
+	},
+	{
+		"id": 2,
+		"name": "Golden Sands Beach Villa",
+		"image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A stunning beachfront villa with direct access to the golden beaches.",
+		"rating": 4.8,
+		"price": 3000,
+		"duration": "5 days",
+		"location": "Maldives",
+		"category": "Beaches"
+	},
+	{
+		"id": 3,
+		"name": "Crystal Cove Island",
+		"image": "https://media.istockphoto.com/id/2157433063/photo/beautiful-beachfront-resort-in-koh-rong-island-cambodia.jpg?s=1024x1024&w=is&k=20&c=96VScMRvdliHjQBVHERexVB1ibplxSAgYrZSRn0gtl4=",
+		"description": "A serene island getaway with scenic views and tranquil beaches.",
+		"rating": 4.7,
+		"price": 2000,
+		"duration": "10 days",
+		"location": "Bali, Indonesia",
+		"category": "Beaches"
+	},
+	{
+		"id": 4,
+		"name": "Azure Bay Resort",
+		"image": "https://plus.unsplash.com/premium_photo-1676481691573-25ac6e8b0f1a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A luxurious oceanfront resort in the heart of Maui.",
+		"rating": 4.9,
+		"price": 3200,
+		"duration": "8 days",
+		"location": "Maui, Hawaii",
+		"category": "Beaches"
+	},
+	{
+		"id": 5,
+		"name": "Alpine Chalet Retreat",
+		"image": "https://plus.unsplash.com/premium_photo-1672109350977-659adad3b8b6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A cozy retreat nestled in the Swiss Alps with stunning mountain views.",
+		"rating": 4.9,
+		"price": 4000,
+		"duration": "6 days",
+		"location": "Switzerland",
+		"category": "Mountains"
+	},
+	{
+		"id": 6,
+		"name": "Eagle Peak Lodge",
+		"image": "https://plus.unsplash.com/premium_photo-1698501024602-2bd6e1f8ff0e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A luxurious lodge with spectacular views of the Rocky Mountains.",
+		"rating": 4.8,
+		"price": 3500,
+		"duration": "7 days",
+		"location": "Banff, Canada",
+		"category": "Mountains"
+	},
+	{
+		"id": 7,
+		"name": "Andean Heights Lodge",
+		"image": "https://plus.unsplash.com/premium_photo-1702598448651-3b67f69d4272?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A stunning lodge offering breathtaking views of the Andes Mountains.",
+		"rating": 4.9,
+		"price": 3000,
+		"duration": "5 days",
+		"location": "Machu Picchu, Peru",
+		"category": "Mountains"
+	},
+	{
+		"id": 8,
+		"name": "The Luxe Metropolis Hotel",
+		"image": "https://images.unsplash.com/photo-1549294413-26f195200c16?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A luxury hotel offering a premium experience in the heart of Paris.",
+		"rating": 4.7,
+		"price": 3500,
+		"duration": "5 days",
+		"location": "Paris, France",
+		"category": "Cities"
+	},
+	{
+		"id": 9,
+		"name": "Big Apple Suites",
+		"image": "https://plus.unsplash.com/premium_photo-1661963890332-64aca322d1e9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A modern suite hotel located in the heart of Manhattan.",
+		"rating": 4.8,
+		"price": 4200,
+		"duration": "6 days",
+		"location": "New York, USA",
+		"category": "Cities"
+	},
+	{
+		"id": 10,
+		"name": "Roman Imperial Hotel",
+		"image": "https://plus.unsplash.com/premium_photo-1701196955225-658ee899cbb6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A luxury hotel located near the iconic Colosseum.",
+		"rating": 4.9,
+		"price": 3000,
+		"duration": "5 days",
+		"location": "Rome, Italy",
+		"category": "Cities"
+	},
+	{
+		"id": 11,
+		"name": "Skyline Towers",
+		"image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A high-rise luxury hotel in the futuristic city of Dubai.",
+		"rating": 4.7,
+		"price": 4000,
+		"duration": "7 days",
+		"location": "Dubai, UAE",
+		"category": "Cities"
+	},
+	{
+		"id": 12,
+		"name": "Harbourview Hotel",
+		"image": "https://plus.unsplash.com/premium_photo-1681338224373-9669c2497c05?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A stylish hotel with panoramic views of Sydney's iconic harbor.",
+		"rating": 4.6,
+		"price": 2800,
+		"duration": "5 days",
+		"location": "Sydney, Australia",
+		"category": "Cities"
+	},
+	{
+		"id": 13,
+		"name": "Lakeview Alpine Lodge",
+		"image": "https://images.unsplash.com/photo-1439066290691-510066268af5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A serene lakeside lodge surrounded by breathtaking mountains.",
+		"rating": 4.8,
+		"price": 3200,
+		"duration": "6 days",
+		"location": "Queenstown, New Zealand",
+		"category": "Lakes"
+	},
+	{
+		"id": 14,
+		"name": "Colosseum Heritage Inn",
+		"image": "https://plus.unsplash.com/premium_photo-1676393904171-738ff11eceaa?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm9tZXxlbnwwfHwwfHx8MA%3D%3D",
+		"description": "An inn located near the ancient wonders of the Roman Empire.",
+		"rating": 4.9,
+		"price": 1800,
+		"duration": "4 days",
+		"location": "Rome, Italy",
+		"category": "Historical Sites"
+	},
+	{
+		"id": 15,
+		"name": "Inca Sanctuary Resort",
+		"image": "https://plus.unsplash.com/premium_photo-1688480179675-8f211d16e9a1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A sanctuary located amidst the ruins of Machu Picchu.",
+		"rating": 4.9,
+		"price": 2800,
+		"duration": "5 days",
+		"location": "Machu Picchu, Peru",
+		"category": "Historical Sites"
+	},
+	{
+		"id": 16,
+		"name": "Venetian Grand Canal Inn",
+		"image": "https://plus.unsplash.com/premium_photo-1676120651757-1707e9b0280c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A charming inn situated alongside the canals of Venice.",
+		"rating": 4.8,
+		"price": 3200,
+		"duration": "4 days",
+		"location": "Venice, Italy",
+		"category": "Historical Sites"
+	},
+	{
+		"id": 17,
+		"name": "Rocky Mountain Escape",
+		"image": "https://plus.unsplash.com/premium_photo-1661943514290-e5ff570f6ab1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "An adventure lodge nestled in Banff National Park.",
+		"rating": 4.8,
+		"price": 2300,
+		"duration": "7 days",
+		"location": "Banff National Park, Canada",
+		"category": "National Parks"
+	},
+	{
+		"id": 18,
+		"name": "Desert Mirage Resort",
+		"image": "https://plus.unsplash.com/premium_photo-1678335449247-92f0ab1d2f02?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"description": "A luxurious oasis resort located in the heart of the Dubai desert.",
+		"rating": 4.7,
+		"price": 3300,
+		"duration": "6 days",
+		"location": "Dubai, UAE",
+		"category": "Deserts"
+	}
+]
